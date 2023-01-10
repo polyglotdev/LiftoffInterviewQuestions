@@ -1,0 +1,13 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "Interview Questions for liftoff students",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "polyglotdev"
+}
